@@ -1,0 +1,1 @@
+# laravel9_how_to_create_migration
